@@ -9,7 +9,7 @@ If you like the theme, feel free to thank me by giving this repository a **★ s
 Go to **Themes** under **Revenge** in **Settings**, then tap the (+) button, finally paste this URL:
 
 ```
-https://github.com/eeriemyxi/glorious-sunset/raw/refs/heads/main/theme.json
+https://github.com/boyratata/glorious-sunset/raw/refs/heads/main/theme.json
 ```
 
 # Credits
