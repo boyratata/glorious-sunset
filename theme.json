@@ -29,7 +29,7 @@
     "BACKGROUND_MESSAGE_HOVER": ["#B0E0E6"],
     "BACKGROUND_MODIFIER_HOVER": ["#fb4934"],
     "BACKGROUND_MODIFIER_ACTIVE": ["#b16286"],
-    "BACKGROUND_MODIFIER_SELECTED": ["#d79921"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#0b0b0f"],
     "BACKGROUND_MODIFIER_ACCENT": ["#1d2021"],
     "SCROLLBAR_THIN_THUMB": ["#665c54"],
     "SCROLLBAR_THIN_TRACK": ["transparent"],
@@ -79,7 +79,7 @@
     "PLUM_16": "#b16286",
     "PLUM_17": "#1d2021",
     "PLUM_18": "#3c3836",
-    "PLUM_19": "#d79921",
+    "PLUM_19": "#B0E0E6",
     "PLUM_20": "#282828",
     "PLUM_21": "#282828",
     "PLUM_22": "#3c3836",
@@ -179,7 +179,7 @@
   },
   "background": {
     "blur": 0,
-    "url": "https://raw.githubusercontent.com/boyratata/gruvbox-theme-revenge/refs/heads/main/assets/bg-modified-glow.png",
+    "url": "https://raw.githubusercontent.com/boyratata/gruvbox-theme-revenge/refs/heads/main/assets/bg-modified-glow.jpg",
     "alpha": 1
   },
   "plus": {
